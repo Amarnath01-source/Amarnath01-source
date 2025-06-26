@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! 👋 I’m learning web dev and sharing my progress on GitHub. DM me on twitter for web development projects and collaboration.
+Hey! 👋 I’m learning web dev and sharing my progress on GitHub. 
 
 
 ## 🌐 Socials:
